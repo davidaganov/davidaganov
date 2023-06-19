@@ -41,6 +41,6 @@ If you have any questions or want to get in touch with me, please use the follow
 
 - Email: davidaganov21@mail.com 📧
 - LinkedIn: [David Aganov](https://www.linkedin.com/in/david-aganov/) 💼
-- Codepen: [@davidaganov](https://codepen.io/davidaganov) :robot:
+- Telegram: [@davidaganov](https://t.me/davidaganov) :robot:
 
 Thanks for stopping by my profile!
