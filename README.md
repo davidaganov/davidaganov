@@ -29,7 +29,8 @@ I always try to stay up-to-date with the latest news and trends in the industry 
 
 Here are a few of my projects that I developed in my spare time to showcase my skills and coding style.
 
-- [Landing "Interio"](https://github.com/davidaganov/landing-interio) - A landing page created from an online template, using React, Typescript, and tests written in Jest."
+- [Online store "Comforty"](https://github.com/davidaganov/comforty) - Online store created using Vue 3 Composition API and Typescript
+- [Landing "Interio"](https://github.com/davidaganov/landing-interio) - A landing page created using React, Typescript, and tests written in Jest.
 - [My Website](https://github.com/davidaganov/davidaganov.github.io) - Website with my portfolio, for which I came up with the design myself, using React, Typescript, and tests written in Jest.
 
 _You can also check out my other [repositories](https://github.com/davidaganov?tab=repositories), where there are examples of components created using Vue 2, a small application built with React Native, and other small projects._
