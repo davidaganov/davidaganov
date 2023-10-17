@@ -1,6 +1,6 @@
 # 👋 Hello, my name is David Aganov.
 
-I'm a frontend developer with 2 years of experience. My GitHub profile is my showcase for the projects and code that I create.
+I'm a frontend developer with 2.5 years of experience. My GitHub profile is my showcase for the projects and code that I create.
 
 Download my resume and find more detailed information about me on my [website](https://aganov.dev/).
 
@@ -29,9 +29,25 @@ I always try to stay up-to-date with the latest news and trends in the industry 
 
 Here are a few of my projects that I developed in my spare time to showcase my skills and coding style.
 
-- [Online store "Comforty"](https://github.com/davidaganov/comforty) - Online store created using Vue 3 Composition API and Typescript
-- [Landing "Interio"](https://github.com/davidaganov/landing-interio) - A landing page created using React, Typescript, and tests written in Jest.
-- [My Website](https://github.com/davidaganov/davidaganov.github.io) - Website with my portfolio, for which I came up with the design myself, using React, Typescript, and tests written in Jest.
+WAQF - Crowdfunding platform. 
+- Code refactoring
+- Implementation of new functionality
+*next, typescript, html, scss*
+
+JetUnity - Private aviation organization 
+- Code refactoring 
+- Migration to modern technologies
+- Implementation of new functionality 
+*nuxt 2, pug, styl, scss*
+
+[Online store "Comforty"](https://github.com/davidaganov/comforty) - Online store
+*vue 3, typescript, scss*
+
+[Landing "Interio"](https://github.com/davidaganov/landing-interio) - A landing page
+*react, jest, typescript, scss*
+
+[Portfolio](https://github.com/davidaganov/davidaganov.github.io) - Website with my portfolio, for which I came up with the design myself
+*react, jest, typescript, sass*
 
 _You can also check out my other [repositories](https://github.com/davidaganov?tab=repositories), where there are examples of components created using Vue 2, a small application built with React Native, and other small projects._
 
