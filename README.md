@@ -29,7 +29,6 @@ I always try to stay up-to-date with the latest news and trends in the industry 
 
 Here are a few of my projects that I developed in my spare time to showcase my skills and coding style.
 
----
 WAQF - Crowdfunding platform. 
 - Code refactoring
 - Implementation of new functionality
