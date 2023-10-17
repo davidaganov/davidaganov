@@ -32,21 +32,26 @@ Here are a few of my projects that I developed in my spare time to showcase my s
 WAQF - Crowdfunding platform. 
 - Code refactoring
 - Implementation of new functionality
+Technologies used:
 *next, typescript, html, scss*
 
 JetUnity - Private aviation organization 
 - Code refactoring 
 - Migration to modern technologies
-- Implementation of new functionality 
+- Implementation of new functionality
+Technologies used:
 *nuxt 2, pug, styl, scss*
 
 [Online store "Comforty"](https://github.com/davidaganov/comforty) - Online store
+Technologies used:
 *vue 3, typescript, scss*
 
 [Landing "Interio"](https://github.com/davidaganov/landing-interio) - A landing page
+Technologies used:
 *react, jest, typescript, scss*
 
 [Portfolio](https://github.com/davidaganov/davidaganov.github.io) - Website with my portfolio, for which I came up with the design myself
+Technologies used:
 *react, jest, typescript, sass*
 
 _You can also check out my other [repositories](https://github.com/davidaganov?tab=repositories), where there are examples of components created using Vue 2, a small application built with React Native, and other small projects._
