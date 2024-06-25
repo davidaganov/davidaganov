@@ -4,19 +4,19 @@ I have 3 years of experience in frontend development, with expertise in both fre
 
 ### What can I do
 
-✔️ Building complete landing pages
-✔️ Maintaining and updating existing websites
-✔️ Developing SPAs with modern technologies
+- Building complete landing pages
+- Maintaining and updating existing websites
+- Developing SPAs with modern technologies
 
 ### My stack technologies
 
-✔️ Nuxt 3 / Vue 3
-✔️ TypeScript / JavaScript
-✔️ HTML5 / Pug
-✔️ CSS / SCSS / Tailwind
-✔️ REST API / Websocket / Server-Sent Events
-✔️ Git, Git Flow / GitLab
-✔️ Gulp / Webpack / Vite
+- Nuxt 3 / Vue 3
+- TypeScript / JavaScript
+- HTML5 / Pug
+- CSS / SCSS / Tailwind
+- REST API / Websocket / Server-Sent Events
+- Git, Git Flow / GitLab
+- Gulp / Webpack / Vite
 
 ---
 
