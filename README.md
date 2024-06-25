@@ -1,66 +1,26 @@
 # 👋 Hello, my name is David Aganov.
 
-I'm a frontend developer with 2.5 years of experience. My GitHub profile is my showcase for the projects and code that I create.
+I have 3 years of experience in frontend development, with expertise in both freelancing and office environments. This experience allows me to quickly establish rapport with different clients and teams. I always strive to understand the client's needs and achieve high-quality results. I am committed to building long-term and mutually beneficial relationships.
 
-Download my resume and find more detailed information about me on my [website](https://aganov.dev/).
+### What can I do
 
-## 🔧 My Skills
+✔️ Building complete landing pages
+✔️ Maintaining and updating existing websites
+✔️ Developing SPAs with modern technologies
 
-Frontend stack:
-- HTML
-- CSS, SCSS/SASS, Less
-- JavaScript, TypeScript, JQuery
-- Vue, Nuxt
-- React
-- Jest
-- ESLint, Prettier
-- Webpack, Gulp
-- Git (GitHub, GitLub)
-- Wordpress
+### My stack technologies
 
-Other stack:
-- Blender, Maya
-- Figma
-- Adobe Photoshop
-
-I always try to stay up-to-date with the latest news and trends in the industry and constantly learn new technologies.
-
-## 🚀 My Projects
-
-Here are a few of my projects that I developed in my spare time to showcase my skills and coding style.
-
-WAQF - Crowdfunding platform. 
-- Code refactoring
-- Implementation of new functionality
-
-*next, typescript, html, scss*
-
----
-JetUnity - Private aviation organization 
-- Code refactoring 
-- Migration to modern technologies
-- Implementation of new functionality
-
-*nuxt 2, pug, styl, scss*
-
----
-[Online store "Comforty"](https://github.com/davidaganov/comforty) - Online store
-
-*vue 3, typescript, scss*
-
----
-[Landing "Interio"](https://github.com/davidaganov/landing-interio) - A landing page
-
-*react, jest, typescript, scss*
-
----
-[Portfolio](https://github.com/davidaganov/davidaganov.github.io) - Website with my portfolio, for which I came up with the design myself
-
-*react, jest, typescript, sass*
+✔️ Nuxt 3 / Vue 3
+✔️ TypeScript / JavaScript
+✔️ HTML5 / Pug
+✔️ CSS / SCSS / Tailwind
+✔️ REST API / Websocket / Server-Sent Events
+✔️ Git, Git Flow / GitLab
+✔️ Gulp / Webpack / Vite
 
 ---
 
-*You can also check out my other [repositories](https://github.com/davidaganov?tab=repositories), where there are examples of components created using Vue 2, a small application built with React Native, and other small projects.*
+*You can check my [repositories](https://github.com/davidaganov?tab=repositories), where there are examples of components created using Vue 2, a small application built with React Native, and other small projects.*
 
 ## 📫 Contact Me
 
