@@ -31,3 +31,5 @@ If you have any questions or want to get in touch with me, please use the follow
 - Telegram: [@davidaganov](https://t.me/davidaganov) :robot:
 
 Thanks for stopping by my profile!>)
+
+[![wakatime](https://wakatime.com/badge/user/b3200538-21d3-46e6-b1b1-400527ffe826.svg)](https://wakatime.com/@b3200538-21d3-46e6-b1b1-400527ffe826)
