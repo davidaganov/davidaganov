@@ -12,7 +12,7 @@ I have 3 years of experience in frontend development, with expertise in both fre
 
 - Nuxt 3 / Vue 3
 - TypeScript / JavaScript
-- HTML5 / Pug
+- HTML5 / Pug / EJS
 - CSS / SCSS / Tailwind
 - REST API / Websocket / Server-Sent Events
 - Git, Git Flow / GitLab
