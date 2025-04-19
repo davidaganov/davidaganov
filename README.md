@@ -1,35 +1,36 @@
-# 👋 Hello, my name is David Aganov.
+<h1 align="center">👋 Hello, I’m David Aganov</h1>
+<p align="center">
+  📍 Frontend-developer (Vue/Nuxt) &nbsp;•&nbsp; 4 years experience
+</p>
 
-I have 3 years of experience in frontend development, with expertise in both freelancing and office environments. This experience allows me to quickly establish rapport with different clients and teams. I always strive to understand the client's needs and achieve high-quality results. I am committed to building long-term and mutually beneficial relationships.
+<p align="center">
+  <a href="https://github.com/davidaganov"><img src="https://img.shields.io/github/followers/davidaganov?label=GitHub%20Followers&style=social"></a>
+  <a href="https://wakatime.com/@b3200538-21d3-46e6-b1b1-400527ffe826"><img src="https://wakatime.com/badge/user/b3200538-21d3-46e6-b1b1-400527ffe826.svg" alt="wakatime"></a>
+  <img src="https://komarev.com/ghpvc/?username=davidaganov&style=flat" alt="Profile views">
+</p>
 
-### What can I do
+I have 4 years of frontend‑development experience — both freelance and in‑office. This helps me quickly connect with different clients and teams. I always strive to fully understand project requirements and deliver flawless results. I’m focused on building long‑term, mutually beneficial partnerships.
 
-- Building complete landing pages
-- Maintaining and updating existing websites
-- Developing SPAs with modern technologies
+- ❤️ I value clean code, strong typing, and automation.
+- 🎯 I aim for lasting collaborations.
 
-### My stack technologies
+### My Tech Stack
 
-- Nuxt 3 / Vue 3
+- Nuxt 3 / Vue 3
 - TypeScript / JavaScript
 - HTML5 / Pug / EJS
 - CSS / SCSS / Tailwind
-- REST API / Websocket / Server-Sent Events
-- Git, Git Flow / GitLab
+- REST API / WebSocket / Server‑Sent Events
+- Git, Git Flow / GitLab
 - Gulp / Webpack / Vite
 
----
+![My Skills](https://skillicons.dev/icons?i=vue,nuxt,ts,js,html,css,tailwind,git)
 
-*You can check my [repositories](https://github.com/davidaganov?tab=repositories), where there are examples of components created using Vue 2, a small application built with React Native, and other small projects.*
+## 📫 Contact Me
 
-## 📫 Contact Me
+If you have questions or want to get in touch, feel free to reach out:
 
-If you have any questions or want to get in touch with me, please use the following contacts:
+- Email: **davidaganov21@mail.com** 📧
+- Telegram: [@davidaganov](https://t.me/davidaganov) 🤖
 
-- Email: davidaganov21@mail.com 📧
-- LinkedIn: [David Aganov](https://www.linkedin.com/in/david-aganov/) 💼
-- Telegram: [@davidaganov](https://t.me/davidaganov) :robot:
-
-Thanks for stopping by my profile!>)
-
-[![wakatime](https://wakatime.com/badge/user/b3200538-21d3-46e6-b1b1-400527ffe826.svg)](https://wakatime.com/@b3200538-21d3-46e6-b1b1-400527ffe826)
+Thanks for visiting my profile!!>)
